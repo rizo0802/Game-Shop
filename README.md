@@ -2,8 +2,8 @@ League of Legends Item Shop ⚔️
 A C terminal application that simulates a MOBA item shop using data structures.
 
 Features
-*Smart Crafting Logic: Automatically checks if you have the required components in your inventory, consumes them, and adds the completed item to your inventory.
-* ]Economy System: Farm randomized gold and automatically verify funds before purchasing components from the shop.
+* Smart Crafting Logic: Automatically checks if you have the required components in your inventory, consumes them, and adds the completed item to your inventory.
+* Economy System: Farm randomized gold and automatically verify funds before purchasing components from the shop.
 * Inventory Management: Seamlessly add bought components to your inventory or view your current stash at any time. 
 * Data Structure Architecture: Built using 3 preloaded binary trees for item recipes, a simple linked list for the inventory, and direct double pointer manipulation for safe data saving across the program. 
 
